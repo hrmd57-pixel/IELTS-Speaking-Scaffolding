@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Scaffolding AI",
+  "description": "An AI-powered tool to transform IELTS Part 2 stories into structured learning materials using the Gemini API.",
+  "requestFramePermissions": []
+}
